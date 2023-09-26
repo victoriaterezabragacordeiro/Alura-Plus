@@ -89,3 +89,10 @@ body {
 .container__descricao{
    padding: 2em;
 }
+
+.dispositivo_lista[
+   display: flex;
+   justify-content;
+   list-style-type: none;
+   margin: 5em 0;
+]
