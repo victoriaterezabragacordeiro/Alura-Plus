@@ -92,7 +92,7 @@ body {
 
 .dispositivo_lista{
    display: flex;
-   justify-content;
+   justify-content:center;
    list-style-type: none;
    margin: 5em 0;
 }
