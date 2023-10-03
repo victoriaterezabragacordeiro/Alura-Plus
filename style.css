@@ -90,8 +90,8 @@ body {
    padding: 2em;
 }
 
-.dispositivo_lista{
-   display: flex;
+.dispositivo__lista{
+   display:flex;
    justify-content:center;
    list-style-type: none;
    margin: 5em 0;
