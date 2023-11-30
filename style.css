@@ -111,7 +111,7 @@ margin-top:1em
 .dispositivos__lista {
 display:flex;
 justify-content: center;
-list-style-type: none;
+list-le-type: none;
 margin:5em 0
 
 }
@@ -136,7 +136,7 @@ margin:5em 0
 .rodape__lista {
    display: flex;
    justify-content: center;
-   list-style-type: none;
+   list-le-type: none;
    margin-top: 1em;
 }
 
